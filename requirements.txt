@@ -4,4 +4,3 @@ altair<5
 pandas
 numpy
 matplotlib
-plotly

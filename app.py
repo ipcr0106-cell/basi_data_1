@@ -3,7 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
-import plotly
 import platform
 
 baci_hs=pd.read_csv("baci_85_only.csv")
