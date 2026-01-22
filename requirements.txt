@@ -1,6 +1,6 @@
+seaborn
+streamlit==1.31.1
+altair<5
 pandas
 numpy
 matplotlib
-seaborn
-streamlit
-plotly
